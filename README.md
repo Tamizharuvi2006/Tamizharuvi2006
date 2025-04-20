@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Tamizharuvi
-- 👀 I’m interested in full stack dev
-- 🌱 I’m currently learning front end
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail me at aruvi2908@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Hobby: in my free time like to watch anime and read manhwa 
+👋 Hi, I’m @Tamizharuvi
+👀 Passionate about Full Stack Development
+
+🌱 Currently diving deep into the Frontend world (HTML, CSS, JavaScript, React & more)
+
+💞️ Open to collaborating on creative web projects and frontend innovations
+
+📫 Reach me at: aruvi2908@gmail.com
+
+⚡ Fun fact: I love building cool UIs, and when I’m not coding, you’ll find me watching anime or reading manhwa
 
 <!---
 Tamizharuvi2006/Tamizharuvi2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

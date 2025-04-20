@@ -1,4 +1,5 @@
 👋 Hi, I’m @Tamizharuvi
+
 👀 Passionate about Full Stack Development
 
 🌱 Currently diving deep into the Frontend world (HTML, CSS, JavaScript, React & more)
